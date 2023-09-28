@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\ganbo\Documents\Learning\ASP .Net\3. React with dotnet core\1. Build a React.js Quiz App with Asp.Net Core API\QuizApp\QuizApp\obj\Release\net7.0\win-x86\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\ganbo\Documents\Learning\ASP .Net\3. React with dotnet core\1. Build a React.js Quiz App with Asp.Net Core API\QuizApp\QuizApp\obj\Release\net7.0\win-x86\PubTmp\EFSQLScripts\QuizApp.Context.QuizDbContext.sql" />
+</sitemanifest>

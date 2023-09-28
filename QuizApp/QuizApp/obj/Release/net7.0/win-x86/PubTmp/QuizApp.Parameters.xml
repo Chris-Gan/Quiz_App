@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="QuizApp20230928171723" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\ganbo\\Documents\\Learning\\ASP\ \.Net\\3\.\ React\ with\ dotnet\ core\\1\.\ Build\ a\ React\.js\ Quiz\ App\ with\ Asp\.Net\ Core\ API\\QuizApp\\QuizApp\\obj\\Release\\net7\.0\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="QuizApp.Context.QuizDbContext" description="" value="Server=tcp:quiz-app-server.database.windows.net,1433;Initial Catalog=Quiz_App;Persist Security Info=False;User ID=CloudSA27ce6f5d;Password=78968892323Zzz!;MultipleActiveResultSets=True;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\ganbo\\Documents\\Learning\\ASP\ \.Net\\3\.\ React\ with\ dotnet\ core\\1\.\ Build\ a\ React\.js\ Quiz\ App\ with\ Asp\.Net\ Core\ API\\QuizApp\\QuizApp\\obj\\Release\\net7\.0\\win-x86\\PubTmp\\EFSQLScripts\\QuizApp\.Context\.QuizDbContext\.sql$" />
+  </parameter>
+</parameters>

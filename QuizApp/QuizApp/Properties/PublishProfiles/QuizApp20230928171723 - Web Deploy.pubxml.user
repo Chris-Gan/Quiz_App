@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMu57HnEFPE62oLfomiibaQAAAAACAAAAAAAQZgAAAAEAACAAAADmn1YkBZtXOgEP7xaBhJEQ/YZ2SMKz0D2kuKkzDl5ArwAAAAAOgAAAAAIAACAAAABswP09eAHQUsu3CzjB89l3fTxemVZqrpZBCY76w4h/MYAAAACxmovOMq4QTteCjQJsZ3d22k5eRFV4zoRyYFVzAkaUOfqH5vXMq7gYgL0hn4zqsvy8RbMYT0aLt0YAfDB5ijqDAFCDhcmHyEqAndbVxxBp3HgCogw3lacfZ0WBT/dN5PSt3S6XfKabya9f+Sqx9Tsn7Qp1XJOvXSYmJtLqTuoaO0AAAAB15IdpetNaJip8DuI+wZhmpMpbc6fi8XERvp+tgTTDZePXg8ANyrS/evDBnA8gAm/FiR21KJvP6pEQE6y+lE7o</EncryptedPassword>
+    <History>True|2023-09-28T11:38:33.0774402Z;False|2023-09-28T21:34:47.4620961+10:00;False|2023-09-28T21:32:04.1608029+10:00;False|2023-09-28T21:25:35.7027759+10:00;True|2023-09-28T21:04:21.5330355+10:00;True|2023-09-28T21:03:00.0215582+10:00;True|2023-09-28T20:57:11.9623726+10:00;False|2023-09-28T20:54:07.8584627+10:00;True|2023-09-28T20:52:14.8974997+10:00;True|2023-09-28T20:42:08.7884209+10:00;True|2023-09-28T18:12:40.5024625+10:00;True|2023-09-28T17:37:59.3175889+10:00;True|2023-09-28T17:27:36.3240121+10:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnect">
+      <Value>Server=tcp:quiz-app-server.database.windows.net,1433%3bInitial Catalog=Quiz_App%3bPersist Security Info=False%3bUser ID=CloudSA27ce6f5d%3bPassword=78968892323Zzz!%3bMultipleActiveResultSets=True%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="QuizApp.Context.QuizDbContext">
+      <Value>Server=tcp:quiz-app-server.database.windows.net,1433%3bInitial Catalog=Quiz_App%3bPersist Security Info=False%3bUser ID=CloudSA27ce6f5d%3bPassword=78968892323Zzz!%3bMultipleActiveResultSets=True%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
