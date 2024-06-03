@@ -5,7 +5,7 @@ Welcome to the frontend logic of the Quiz App. This repository contains the code
 ## Backend Code
 
 The frontend code for this application can be accessed at the following link:
-- [Quiz App Backend]([https://github.com/Chris-Gan/Quiz_App_Backend](https://github.com/Chris-Gan/Quiz_App_Frontend/)
+- [Quiz App Backend]([https://github.com/Chris-Gan/Quiz_App_Backend](https://github.com/Chris-Gan/Quiz_App_Frontend/])
 
 ## Live Demo
 
