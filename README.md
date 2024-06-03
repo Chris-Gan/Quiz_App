@@ -1,8 +1,8 @@
-# Quiz App Frontend
+# Quiz App Backend
 
-Welcome to the frontend logic of the Quiz App. This repository contains the code that powers the user interface and user experience of the Quiz App.
+Welcome to the backend logic of the Quiz App. This repository contains the code that powers the server-side functionality and data management of the Quiz App.
 
-## Backend Code
+## Frontend Code
 
 The frontend code for this application can be accessed at the following link:
 - [Quiz App Frontend](https://github.com/Chris-Gan/Quiz_App_Frontend/)
